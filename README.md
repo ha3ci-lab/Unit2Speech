@@ -1,6 +1,6 @@
 # Unit2Speech
 
-The purpose is to focus on research on converting from Unit to speech. Unit can be obtained from different modalities such as images, signals, and speech.
+This research focuses on converting Unit to Speech. And Unit can be obtained from different modalities, such as images, signals, and speech.
 
 ## Prepare data
 Follow [this link](https://github.com/facebookresearch/fairseq/tree/main/examples/textless_nlp/gslm/speech2unit) to convert speech to unit
