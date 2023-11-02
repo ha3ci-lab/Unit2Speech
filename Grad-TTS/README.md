@@ -48,7 +48,7 @@ Run script `inference.py` by providing path to the text file, path to the Grad-T
 3. Specify your GPU device and run training script:
     ```bash
     export CUDA_VISIBLE_DEVICES=YOUR_GPU_ID
-    python train.py  # if single speaker
+    python train.py
     ```
 4. To track your training process run tensorboard server on any available port:
     ```bash

@@ -12,3 +12,9 @@ We select Grad-TTS and VITS (not Fastspeech2, Tacotron2) because these framework
 
 Details of training the models are described in each sub-folder.
 
+## Inference
+Download checkpoint [here](https://drive.google.com/drive/folders/1b8_brvPzUTfhIMT9FstkuoYjv7ktC7wW?usp=sharing)
+```shell
+cd Grad-TTS
+bash run_infer.sh
+```
